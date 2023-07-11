@@ -1,3 +1,3 @@
-# Test Repo for [spacestation13/BYONDDiffBots]
+# Test Repo for [spacestation13/BYONDDiffBots](https://github.com/spacestation13/BYONDDiffBots)
 
 This repository is used for unit and integration testing with the byond diff bots, because they need to operate on full repos due to their nature.
